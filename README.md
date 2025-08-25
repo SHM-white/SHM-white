@@ -1,6 +1,10 @@
 ## Hi there 👋
 
-[![Top Langs](https://111-one-gules.vercel.app/api/top-langs/?username=SHM-white&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats-Dark](https://111-one-gules.vercel.app/api?username=SHM-white&locale=cn&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/SHM-white)
+[![Anurag's GitHub stats-Light](https://111-one-gules.vercel.app/api?username=SHM-white&locale=cn&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/SHM-white)
+
+[![Top Langs-Dark](https://111-one-gules.vercel.app/api/top-langs/?username=SHM-white&layout=donut-vertical&locale=cn&langs_count=12&theme=dark#gh-dark-mode-only)](https://github.com/SHM-white)
+[![Top Langs-Light](https://111-one-gules.vercel.app/api/top-langs/?username=SHM-white&layout=donut-vertical&locale=cn&langs_count=12&theme=default#gh-light-mode-only)](https://github.com/SHM-white)
 
 <!--
 **SHM-white/SHM-white** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
